@@ -6,6 +6,8 @@ test new
 test new 2
 test game haha
 
+test game 21:29
+
 CP DSAI
 CP-dsai Toon FFFFFF
 
