@@ -1,5 +1,5 @@
 # CP-DSAI-Project-EEG
-<h1> Set up brain invader 2015 dataset </h1>
+<h3> Set up brain invader 2015 dataset </h3>
 Repository with basic scripts for using the Brain Invaders 2015a dataset developed at the GIPSA-lab, in Grenoble. The dataset files and their documentation are all available at 
 
 [https://zenodo.org/record/3266930](https://zenodo.org/record/3266930)
