@@ -2,8 +2,8 @@
 <h3> Set up brain invader 2015 dataset </h3>
 Repository with basic scripts for using the Brain Invaders 2015a dataset developed at the GIPSA-lab, in Grenoble. The dataset files and their documentation are all available at 
 
-[https://zenodo.org/record/3266930](https://zenodo.org/record/3266930)
-
+[https://zenodo.org/record/3266930](https://zenodo.org/record/3266930)<br>
+https://github.com/plcrodrigues/py.BI.EEG.2015a-GIPSA<br>
 The code of this repository was developed in **Python 3** using MNE-Python [1, 2] as tool for the EEG processing.
 
 To make things work, you might need to install some packages. They are all listed in the `requirements.txt` file and can be easily installed by doing
