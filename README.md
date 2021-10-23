@@ -28,7 +28,7 @@ In this week we discuss about the dataset to choose. For this project we use Bra
 <a>https://zenodo.org/record/3266930#.YW_noxrP2Uk</a> <br>
 After we have selected the dataset, we try to understand the experiment behind the dataset and try read all document that the dataset owner provide.<br>
 We also need to setup our environment for this testing for each person in our group. Also, try to load the dataset and import to python code.<br>
-
+In the next week we will focus on preprocessing the dataset for training and find some paper about appropriate model for classification.<br>
 <b>Pasit:</b><br>
 <b>Saratoon:</b><br>
 <b>Nopphawan:</b><br>
