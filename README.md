@@ -6,7 +6,7 @@ After we have selected the dataset, we try to understand the experiment behind t
 We also need to setup our environment for this testing for each person in our group. Also, try to load the dataset and import to python code.<br>
 In the next week we will focus on preprocessing the dataset for training and find some paper about appropriate model for classification.<br> <br>
 <b>Pasit:</b> Try to load data into project by using the library that project owner provide. Reading the library code to understand process that the project owner use to process and import data. Read about mne library. Testing some code.<br>
-<b>Saratoon:</b><br>
+<b>Saratoon:</b>read BCI papers (80%),find and reads other papers of how to preprocess the EEG data and try to understand them.try some of the preprocessing method. <br>
 <b>Nopphawan:</b> Set up new environment and install all neccesary packages, Read the document about MNE package. Try to play with MNE package.<br>
 <b>Nuttun:</b><br>
 <br>
