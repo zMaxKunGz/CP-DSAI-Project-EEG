@@ -8,7 +8,7 @@ In the next week we will focus on preprocessing the dataset for training and fin
 <b>Pasit:</b> Try to load data into project by using the library that project owner provide. Reading the library code to understand process that the project owner use to process and import data. Read about mne library. Testing some code.<br>
 <b>Saratoon:</b>read BCI papers (80%),find and reads other papers of how to preprocess the EEG data and try to understand them.try some of the preprocessing method. <br>
 <b>Nopphawan:</b> Set up new environment and install all neccesary packages, Read the document about MNE package. Try to play with MNE package.<br>
-<b>Nuttun:</b><br>
+<b>Nuttun:</b>Read about BCI paper in classroom (80%), try to understand the process releted "Brain Invaders" and also set up environment for coding. Try to understand 'mne' library<br>
 <br>
 
 <b> [Week 1 : 11-15 Oct 2021] </b> <br> 
