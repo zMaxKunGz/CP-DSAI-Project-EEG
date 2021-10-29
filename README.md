@@ -1,4 +1,12 @@
 # Work Log
+<b> [Week 3 : 25-29 Oct 2021]</b> <br>
+Right now we can download and import the dataset into our project. In this week we focus on how to preprocessing dataset for training. <br> <br>
+<b>Pasit:</b> <br>
+<b>Saratoon:</b> <br>
+<b>Nopphawan:</b> <br>
+<b>Nuttun:</b> <br>
+<br>
+
 <b> [Week 2 : 18-22 Oct 2021]</b> <br>
 In this week we discuss about the dataset to choose. For this project we use Brain Invaders calibration-less P300-based BCI with modulation of flash duration Dataset (bi2015a) as our dataset for testing.<br> 
 <a>https://zenodo.org/record/3266930#.YW_noxrP2Uk</a> <br>
