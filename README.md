@@ -4,7 +4,7 @@ Right now we can download and import the dataset into our project. In this week 
 <b>Pasit:</b> <br>
 <b>Saratoon:</b> try to preprocess the data by following the example and try to understand the code as well as find more info about each preprocessing step. <br>
 <b>Nopphawan:</b> try to understand code how to preprocess data, read more papers to understand brain invaders. <br>
-<b>Nuttun:</b> <br>
+<b>Nuttun:</b> try to understand code (CON2D) available on github. finding the preprocessing data and read more the document related to mne library.<br>
 <br>
 
 <b> [Week 2 : 18-22 Oct 2021]</b> <br>
