@@ -2,8 +2,8 @@
 <b> [Week 3 : 25-29 Oct 2021]</b> <br>
 Right now we can download and import the dataset into our project. In this week we focus on how to preprocessing dataset for training. <br> <br>
 <b>Pasit:</b> <br>
-<b>Saratoon:</b>try to preprocess the data by following the example and try to understand the code as well as find more info about each preprocessing step. <br>
-<b>Nopphawan:</b> <br>
+<b>Saratoon:</b> try to preprocess the data by following the example and try to understand the code as well as find more info about each preprocessing step. <br>
+<b>Nopphawan:</b> try to understand code how to preprocess data, read more papers to understand brain invaders. <br>
 <b>Nuttun:</b> <br>
 <br>
 
