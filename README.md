@@ -1,4 +1,21 @@
 # Work Log
+
+<b> [Week 4 : 1-5 Nov 2021]</b> <br>
+(detail) <br> 
+<br>
+<b>Pasit:</b>  <br>
+<b>Saratoon:</b>  <br>
+<b>Nopphawan:</b> 
+Reading a paper:
+[link](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
+<br>
+<b>Nuttun:</b>  <br>
+
+<br>
+
+
+
+
 <b> [Week 3 : 25-29 Oct 2021]</b> <br>
 Right now we can download and import the dataset into our project. Then we plot it and discuss about the signal that we have get. Reading more about noise in EEG wave. In this week we focus on how to preprocessing dataset for training. Find method to remove unnecessary chanel. <br> <br>
 <b>Pasit:</b> Reading about preprocessing pipeline HAPPE method. Try to understand the noise in EEG process and how to reduce it. Find possible model for training. <br>
