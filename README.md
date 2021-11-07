@@ -76,8 +76,8 @@ Note that you might want to create a *virtual environment* before doing all thes
 
 [2] Gramfort et al. "MEG and EEG data analysis with MNE-Python" [DOI](https://doi.org/10.3389/fnins.2013.00267)
 
-[3] [P300 based character recognition using convolutional neural network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
+[3] Sourav K. and Samit A., "P300 based character recognition using convolutional neural network" [DOI](https://doi.org/10.1016/j.bspc.2019.101645)
 
 [4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf)
 
-[5] [A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf)
+[5] Feng L. et al., "A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network" [DOI](https://doi.org/10.3390/app10041546)
