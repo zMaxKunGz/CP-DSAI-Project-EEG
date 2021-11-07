@@ -12,7 +12,7 @@ Read paper
 [P300 based character recognition using convolutional neural network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
 and Try to implement a model by following CM-CW-CNN model from this paper.
 <br>
-<b>Nuttun:</b>  <br>
+<b>Nuttun:</b> Read this paper https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf and the preprocessing data about PCA which maybe use in this experiment. <br>
 
 <br>
 
