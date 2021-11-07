@@ -4,7 +4,9 @@
 (detail) <br> 
 <br>
 <b>Pasit:</b>  <br>
-<b>Saratoon:</b>  <br>
+<b>Saratoon:</b> Read this paper
+https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf 
+and other aricles about model that maybe suitable for this dataset<br>
 <b>Nopphawan:</b> 
 Reading a paper:
 [link](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
