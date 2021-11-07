@@ -1,15 +1,12 @@
 # Work Log
 
 <b> [Week 4 : 1-5 Nov 2021]</b> <br>
-(detail) <br> 
-<br>
-<b>Pasit:</b>  <br>
+In this week we focus doing research about possible model and baseline model comparison paper to find model that could get best result for p300 brain invader eeg signal. And we also want to compare about PDA and LDA in precprocessing whether the accuracy will improve or not. Based on [5] paper, it said that if we use PDA or LDA in the preprocessing it can get better result in accuracy. We also testing CNN model implementation and get accuracy about 79%. We use CNN model structure same as in the paper [3]. We also assign papers seperately to each member and then we disscuss about it together. In the next week we will design the experiment process try to apply PCA and LDA to preprocessing to check wether the result will improve or not.<br> <br>
+<b>Pasit:</b>  In this week I read about PREP data preprocessing pipeline[6] in order to understand the process of feature selection and I also research about possible RNN LSTM model[7], then I find the comparison between CNN and RNN[8]. The result from comparation[8] show that CNN can get better accuracy than RNN, so we decide to use CNN as our base model.<br>
 <b>Saratoon:</b> Read about Independent Component Analysis for EEG Data
-Preprocessing - Algorithms Comparison[4] and other aricles about LDA and calssification model for eeg that maybe suitable for this dataset <br>
-<b>Nopphawan:</b> Read paper P300 based character recognition using convolutional neural network
-and Try to implement a model by following CM-CW-CNN model[3]. 
-<br>
-<b>Nuttun:</b> Read A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network[5] and the preprocessing data about PCA which maybe use in this experiment. <br>
+Preprocessing - Algorithms Comparison[4].This paper is about comparing the accuracy of the model using each ICA algorithms and the model that didn't use ICA. It turns out that the results are about the same. <br>
+<b>Nopphawan:</b> Read a paper[3] that is about P300 based character recognition using convolutional neural network. Channel mixing (CM) and Channel wise (CW) were presented in the paper and comparation between CNN, CW-CM-CNN-ESVM, 2D-CNN-ESVM, CM-CW-CNN-ESVM show that the highest accuracy can be obtained from CM-CW-CNN-ESVM model. Then, I try to implement a model to use with selected dataset by following CM-CW-CNN model. <br>
+<b>Nuttun:</b> Read A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network[5]. This papar talk about the selected preprocessing data that is PCA. Morever, comparing the model which are CNN, BN3 and SVM. <br>
 
 <br>
 
@@ -80,4 +77,18 @@ Note that you might want to create a *virtual environment* before doing all thes
 
 [4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf)
 
+<<<<<<< Updated upstream
 [5] Feng L. et al., "A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network" [DOI](https://doi.org/10.3390/app10041546)
+=======
+[5] [A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf)
+>>>>>>> Stashed changes
+
+[6] The PREP pipeline: standardized preprocessing for large-scale EEG analysis [DOI](https://doi.org/10.3389/fninf.2015.00016)
+
+[7] [Recurrent Neural Networks for P300-based BCI](https://arxiv.org/pdf/1901.10798.pdf)
+
+<<<<<<< Updated upstream
+[8] [Comparison of Convolutional and Recurrent Neural Networks for the P300 Detection](https://www.scitepress.org/Papers/2021/102482/102482.pdf)
+=======
+[8] [Comparison of Convolutional and Recurrent Neural Networks for the P300 Detection](https://www.scitepress.org/Papers/2021/102482/102482.pdf)
+>>>>>>> Stashed changes
