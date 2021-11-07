@@ -4,20 +4,14 @@
 (detail) <br> 
 <br>
 <b>Pasit:</b>  <br>
-<b>Saratoon:</b> Read this paper
-https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf 
-and other aricles about model that maybe suitable for this dataset<br>
-<b>Nopphawan:</b> 
-Read paper
-[P300 based character recognition using convolutional neural network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
-and Try to implement a model by following CM-CW-CNN model from this paper.
+<b>Saratoon:</b> Read about Independent Component Analysis for EEG Data
+Preprocessing - Algorithms Comparison[4] and other aricles about LDA and calssification model for eeg that maybe suitable for this dataset <br>
+<b>Nopphawan:</b> Read paper P300 based character recognition using convolutional neural network
+and Try to implement a model by following CM-CW-CNN model[3]. 
 <br>
-<b>Nuttun:</b> Read this paper https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf and the preprocessing data about PCA which maybe use in this experiment. <br>
+<b>Nuttun:</b> Read A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network[5] and the preprocessing data about PCA which maybe use in this experiment. <br>
 
 <br>
-
-
-
 
 <b> [Week 3 : 25-29 Oct 2021]</b> <br>
 Right now we can download and import the dataset into our project. Then we plot it and discuss about the signal that we have get. Reading more about noise in EEG wave. In this week we focus on how to preprocessing dataset for training. Find method to remove unnecessary chanel. <br> <br>
@@ -81,3 +75,9 @@ Note that you might want to create a *virtual environment* before doing all thes
 [1] Gramfort et al. "MNE software for processing MEG and EEG data" [DOI](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 [2] Gramfort et al. "MEG and EEG data analysis with MNE-Python" [DOI](https://doi.org/10.3389/fnins.2013.00267)
+
+[3] [P300 based character recognition using convolutional neural network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/1-P300%20based%20character%20recognition%20using%20convolutional%20neural%20network.pdf)
+
+[4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf)
+
+[5] [A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf)
