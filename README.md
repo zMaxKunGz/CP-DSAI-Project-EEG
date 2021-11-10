@@ -75,7 +75,7 @@ Note that you might want to create a *virtual environment* before doing all thes
 
 [3] Sourav K. and Samit A., "P300 based character recognition using convolutional neural network" [DOI](https://doi.org/10.1016/j.bspc.2019.101645)
 
-[4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/ICA%20not%20needed%20paper/Rejer-G%C3%B3rski2013_Chapter_IndependentComponentAnalysisFo.pdf)
+[4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://link.springer.com/content/pdf/10.1007%2F978-3-642-40925-7_11.pdf)
 
 <<<<<<< Updated upstream
 [5] Feng L. et al., "A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network" [DOI](https://doi.org/10.3390/app10041546)
