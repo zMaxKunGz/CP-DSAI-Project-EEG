@@ -1,7 +1,7 @@
 # Work Log
 <b> [Week 5 : 8-12 Nov 2021]</b> <br>
 <br> <br>
-<b>Pasit:</b>  <br>
+<b>Pasit:</b> Try to implement 3D convolution network from paper <br>
 <b>Saratoon:</b>  <br>
 <b>Nopphawan:</b> <br>
 <b>Nuttun:</b>  <br>
@@ -85,18 +85,10 @@ Note that you might want to create a *virtual environment* before doing all thes
 
 [4] [Independent Component Analysis for EEG Data Preprocessing - Algorithms Comparison](https://link.springer.com/content/pdf/10.1007%2F978-3-642-40925-7_11.pdf)
 
-<<<<<<< Updated upstream
 [5] Feng L. et al., "A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network" [DOI](https://doi.org/10.3390/app10041546)
-=======
-[5] [A Novel P300 Classification Algorithm Based on a Principal Component Analysis-Convolutional Neural Network](https://github.com/zMaxKunGz/CP-DSAI-Project-EEG/blob/main/Interesting_papers/_Model/2-A%20Novel%20P300%20Classification%20Algorithm%20Based%20on%20a.pdf)
->>>>>>> Stashed changes
 
 [6] The PREP pipeline: standardized preprocessing for large-scale EEG analysis [DOI](https://doi.org/10.3389/fninf.2015.00016)
 
 [7] [Recurrent Neural Networks for P300-based BCI](https://arxiv.org/pdf/1901.10798.pdf)
 
-<<<<<<< Updated upstream
 [8] [Comparison of Convolutional and Recurrent Neural Networks for the P300 Detection](https://www.scitepress.org/Papers/2021/102482/102482.pdf)
-=======
-[8] [Comparison of Convolutional and Recurrent Neural Networks for the P300 Detection](https://www.scitepress.org/Papers/2021/102482/102482.pdf)
->>>>>>> Stashed changes
