@@ -1,7 +1,7 @@
 # Work Log
 <b> [Week 5 : 8-12 Nov 2021]</b> <br>
-<br> <br>
-<b>Pasit:</b> Try to implement 3D convolution network from paper <br>
+In this week our group focus on implement the model to for comparision based on refernce papers. We decide to use PCA as our based preprocessing. For model, we use CNN and 3D CNN for testing.<br> <br>
+<b>Pasit:</b> Implement 3D convolution network from paper [9][10]. As the 3d CNN from model show that with 3d CNN EEG, it can improve the accuracy for classification.<br>
 <b>Saratoon:</b>  <br>
 <b>Nopphawan:</b> <br>
 <b>Nuttun:</b>  <br>
@@ -92,3 +92,7 @@ Note that you might want to create a *virtual environment* before doing all thes
 [7] [Recurrent Neural Networks for P300-based BCI](https://arxiv.org/pdf/1901.10798.pdf)
 
 [8] [Comparison of Convolutional and Recurrent Neural Networks for the P300 Detection](https://www.scitepress.org/Papers/2021/102482/102482.pdf)
+
+[9] Convolutional Neural Networks with 3D Input for P300 Identification in Auditory Brain-Computer Interfaces [DOI](https://doi.org/10.1155/2017/8163949)
+
+[10] Joshi R., Goel P., Sur M., Murthy H.A. (2018) Single Trial P300 Classification Using Convolutional LSTM and Deep Learning Ensembles Method. In: Tiwary U. (eds) Intelligent Human Computer Interaction. IHCI 2018. Lecture Notes in Computer Science, vol 11278. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-030-04021-5_1)
