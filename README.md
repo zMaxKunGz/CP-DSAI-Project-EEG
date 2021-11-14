@@ -2,7 +2,7 @@
 <b> [Week 5 : 8-12 Nov 2021]</b> <br>
 In this week our group focus on implement the model to for comparision based on refernce papers. We decide to use PCA as our based preprocessing. For model, we use CNN and 3D CNN for testing.<br> <br>
 <b>Pasit:</b> Implement 3D convolution network from paper [9][10]. As the 3d CNN from model show that with 3d CNN EEG, it can improve the accuracy for classification.<br>
-<b>Saratoon:</b>  <br>
+<b>Saratoon:</b>  Read more about PCA and implement it. Experiment with the model to see how much accuracy has changed.<br>
 <b>Nopphawan:</b> Implement and modify the CM-CW-CNN model to classify 3 classes of output. Try to test the model and get very satisfactory accuracy. <br>
 <b>Nuttun:</b>  <br>
 
