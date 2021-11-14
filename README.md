@@ -1,4 +1,12 @@
 # Work Log
+<b> [Week 5 : 8-12 Nov 2021]</b> <br>
+<br> <br>
+<b>Pasit:</b>  <br>
+<b>Saratoon:</b>  <br>
+<b>Nopphawan:</b> <br>
+<b>Nuttun:</b>  <br>
+
+<br>
 
 <b> [Week 4 : 1-5 Nov 2021]</b> <br>
 In this week we focus doing research about possible model and baseline model comparison paper to find model that could get best result for p300 brain invader eeg signal. And we also want to compare about PDA and LDA in precprocessing whether the accuracy will improve or not. Based on [5] paper, it said that if we use PDA or LDA in the preprocessing it can get better result in accuracy. We also testing CNN model implementation and get accuracy about 79%. We use CNN model structure same as in the paper [3]. We also assign papers seperately to each member and then we disscuss about it together. In the next week we will design the experiment process try to apply PCA and LDA to preprocessing to check wether the result will improve or not.<br> <br>
