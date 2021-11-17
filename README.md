@@ -1,3 +1,4 @@
+
 # Work Log
 <b> [Week 5 : 8-12 Nov 2021]</b> <br>
 In this week our group focus on implement the model to for comparision based on refernce papers. We decide to use PCA as our based preprocessing. For model, we use CNN and 3D CNN for testing.<br> <br>
