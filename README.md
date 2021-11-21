@@ -5,7 +5,7 @@
 XXX
 <br> <br>
 <b>Pasit:</b>  <br>
-<b>Saratoon:</b>  <br>
+<b>Saratoon:</b> Implement SVM model according to this paper[11]. Also try learning more about Xdawn preprocessing method and experiment it with the SVM model. <br>
 <b>Nopphawan:</b> Try to learn and understand more about PCA method. Minorly modify the code of CM-CW-CNN model. <br>
 <b>Nuttun:</b>  <br>
 
@@ -108,3 +108,5 @@ Note that you might want to create a *virtual environment* before doing all thes
 [9] Convolutional Neural Networks with 3D Input for P300 Identification in Auditory Brain-Computer Interfaces [DOI](https://doi.org/10.1155/2017/8163949)
 
 [10] Joshi R., Goel P., Sur M., Murthy H.A. (2018) Single Trial P300 Classification Using Convolutional LSTM and Deep Learning Ensembles Method. In: Tiwary U. (eds) Intelligent Human Computer Interaction. IHCI 2018. Lecture Notes in Computer Science, vol 11278. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-030-04021-5_1)
+
+[11] Sourav K., Samit A. (2017) P300 Detection with Brain-Computer Interface Application using PCA and Ensemble of Weighted SVMs [Link](https://www.researchgate.net/profile/Sourav-Kundu-4/publication/319504119_P300_Detection_with_Brain-Computer_Interface_Application_Using_PCA_and_Ensemble_of_Weighted_SVMs/links/59db54ca0f7e9b2f587fe4a0/P300-Detection-with-Brain-Computer-Interface-Application-Using-PCA-and-Ensemble-of-Weighted-SVMs.pdf)
