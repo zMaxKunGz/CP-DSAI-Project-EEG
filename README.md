@@ -7,7 +7,7 @@ XXX
 <b>Pasit:</b>  <br>
 <b>Saratoon:</b> Implement SVM model according to this paper[11]. Also try learning more about Xdawn preprocessing method and experiment it with the SVM model. <br>
 <b>Nopphawan:</b> Try to learn and understand more about PCA method. Minorly modify the code of CM-CW-CNN model. <br>
-<b>Nuttun:</b>  <br>
+<b>Nuttun:</b> Try to modify the CNN model which is parallel convolutional neural network. Also read material related to PCA precprocessing data.  <br>
 
 <br>
 
