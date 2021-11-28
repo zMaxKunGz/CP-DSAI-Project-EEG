@@ -1,3 +1,39 @@
+# GuideLine
+-Project<br>
+├── CNN3D.ipynb ** This is code for 3D CNN Model <br> 
+├── SVM.ipynb ** This is code for the SVM model <br>
+├── Model-CM-CW-CNN.ipynb ** This is a code for CM-CW-CNN <br>
+├── Parallel_CNN.ipynb ** This is a code for parallel CNN model<br>
+├── InterestingPapers All the paper that we read for this project <br>
+├── PreviousWork All the notebook file is in this folder<br>
+│   ├── Test_CNN.ipynb<br>
+│   ├── Test_eeg_game.ipynb<br>
+│   ├── TestNotebook.ipynb<br>
+│   └── Test preprocessing.ipynb<br>
+├── README.md<br>
+└── Result This folder contain all the testing result accuracy, model and etc divide by each model<br>
+    ├── 3D_CNN<br>
+    │   ├── testAccuracyNoPCA.csv<br>
+    │   └── testAccuracyPCA.csv<br>
+    ├── CM_CW_CNN<br>
+    │   ├── Best<br>
+    │   ├── Last<br>
+    │   ├── PCA_Test_result.csv<br>
+    │   ├── PCA_Train_result.csv<br>
+    │   ├── woPCA_Test_result.csv<br>
+    │   └── woPCA_Train_result.csv<br>
+    ├── Conv2D<br>
+    │   ├── Best<br>
+    │   ├── Conv2D_PCA_result.csv<br>
+    │   ├── Conv2D_result.csv<br>
+    │   └── Last<br>
+    ├── graph<br>
+    │   ├── CM-CW-CNN-Acc-01.png<br>
+    │   └── CM-CW-CNN-Losses-01.png<br>
+    └── SVM<br>
+        └── SVMAccuracy1.csv<br>
+
+
 
 # Work Log
 
